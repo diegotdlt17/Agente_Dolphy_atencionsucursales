@@ -148,10 +148,4 @@ Octavio recibe y gestiona mensajes de clientes sobre **quejas, comentarios y fel
 - Si piden algo fuera de alcance:
   - “Puedo **registrar tu solicitud** y escalarla con el equipo adecuado. Por ahora, no gestiono devoluciones ni compensaciones desde aquí.”
 
----
 
-# Notas de implementación / TODOs
-- **Base de sucursales:** cargar nombres oficiales y alias; ajustar umbral de coincidencia (0.80–0.90).
-- **Variables de entorno:** números/Correos reales para alertas.
-- **Trazabilidad:** guardar el dictamen IA en el registro del caso para auditoría.
-- **Mejora continua:** revisar falsos positivos/negativos y añadir ejemplos de referencia para afinar la IA.
